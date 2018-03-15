@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elfreader.iml" filepath="$PROJECT_DIR$/.idea/modules/elfreader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elfreader_main.iml" filepath="$PROJECT_DIR$/.idea/modules/elfreader_main.iml" group="elfreader" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/elfreader_test.iml" filepath="$PROJECT_DIR$/.idea/modules/elfreader_test.iml" group="elfreader" />
+    </modules>
+  </component>
+</project>
